@@ -1,6 +1,6 @@
-mdm[2437]: DEBUG: Forking extra process: /etc/mdm/PreSession/Default
+mdm[2639]: DEBUG: Forking extra process: /etc/mdm/PreSession/Default
 syndaemon: no process found
-mdm[2437]: DEBUG: Running /etc/mdm/Xsession cinnamon-session-cinnamon for dot on :0
+mdm[2639]: DEBUG: Running /etc/mdm/Xsession cinnamon-session-cinnamon for dot on :20
 /etc/mdm/Xsession: Beginning session setup...
 localuser:dot being added to access control list
 Script for none started at run_im.
@@ -14,125 +14,22 @@ Failed to connect to the VirtualBox kernel service
 Script for none started at run_im.
 Script for auto started at run_im.
 Script for default started at run_im.
-GNOME_KEYRING_CONTROL=/run/user/1001/keyring-wfw4Fc
-SSH_AUTH_SOCK=/run/user/1001/keyring-wfw4Fc/ssh
-GNOME_KEYRING_CONTROL=/run/user/1001/keyring-wfw4Fc
-SSH_AUTH_SOCK=/run/user/1001/keyring-wfw4Fc/ssh
-GNOME_KEYRING_CONTROL=/run/user/1001/keyring-wfw4Fc
-SSH_AUTH_SOCK=/run/user/1001/keyring-wfw4Fc/ssh
-GNOME_KEYRING_CONTROL=/run/user/1001/keyring-wfw4Fc
-SSH_AUTH_SOCK=/run/user/1001/keyring-wfw4Fc/ssh
-GPG_AGENT_INFO=/run/user/1001/keyring-wfw4Fc/gpg:0:1
-nm-applet-Message: using fallback from indicator to GtkStatusIcon
+GNOME_KEYRING_CONTROL=/run/user/1001/keyring-ZNQXer
+SSH_AUTH_SOCK=/run/user/1001/keyring-ZNQXer/ssh
+GNOME_KEYRING_CONTROL=/run/user/1001/keyring-ZNQXer
+SSH_AUTH_SOCK=/run/user/1001/keyring-ZNQXer/ssh
+GNOME_KEYRING_CONTROL=/run/user/1001/keyring-ZNQXer
+SSH_AUTH_SOCK=/run/user/1001/keyring-ZNQXer/ssh
+GNOME_KEYRING_CONTROL=/run/user/1001/keyring-ZNQXer
+SSH_AUTH_SOCK=/run/user/1001/keyring-ZNQXer/ssh
+GPG_AGENT_INFO=/run/user/1001/keyring-ZNQXer/gpg:0:1
 Cjs-Message: JS LOG: About to start Cinnamon
+nm-applet-Message: using fallback from indicator to GtkStatusIcon
 Window manager warning: Trying to remove non-existent custom keybinding "magnifier-zoom-in".
 Window manager warning: Trying to remove non-existent custom keybinding "magnifier-zoom-out".
-Cjs-Message: JS LOG: Cinnamon started at Sun Jun 14 2015 00:13:05 GMT+0200 (CEST)
+Cjs-Message: JS LOG: Cinnamon started at Sun Jun 14 2015 04:40:42 GMT+0200 (CEST)
 
-** (nemo:2735): WARNING **: Can not determine workarea, guessing at layout
+** (nemo:2939): WARNING **: Can not determine workarea, guessing at layout
 failed to create drawable
+mintUpdate(2303): Operation not permitted
 mintUpdate: no process found
-
-(cinnamon-settings-daemon:2670): color-plugin-WARNING **: failed to connect to device: Failed to connect to missing device /org/freedesktop/ColorManager/devices/cups_Deskjet_3050A_J611_series
-Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2600001 (chrome://f)
-Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2600001 (chrome://f)
-Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2600001 (chrome://f)
-Cjs-Message: JS LOG: wireless_set_enabled
-Window manager warning: Log level 16: (nm-access-point.c:357):nm_access_point_connection_valid: runtime check failed: (ap_freq > 0)
-Window manager warning: Log level 16: (nm-access-point.c:357):nm_access_point_connection_valid: runtime check failed: (ap_freq > 0)
-Window manager warning: Log level 16: Could not create object for /org/freedesktop/NetworkManager/AccessPoint/25: Method "GetAll" with signature "s" on interface "org.freedesktop.DBus.Properties" doesn't exist
-
-Window manager warning: Log level 16: Could not create object for /org/freedesktop/NetworkManager/ActiveConnection/8: Method "GetAll" with signature "s" on interface "org.freedesktop.DBus.Properties" doesn't exist
-
-
-** (nm-applet:2736): WARNING **: Could not create object for /org/freedesktop/NetworkManager/AccessPoint/27: Method "GetAll" with signature "s" on interface "org.freedesktop.DBus.Properties" doesn't exist
-
-Window manager warning: Log level 16: async_got_type: could not read properties for /org/freedesktop/NetworkManager/ActiveConnection/10: Method "Get" with signature "ss" on interface "org.freedesktop.DBus.Properties" doesn't exist
-
-Window manager warning: Log level 16: async_got_type: could not read properties for /org/freedesktop/NetworkManager/ActiveConnection/10: Method "Get" with signature "ss" on interface "org.freedesktop.DBus.Properties" doesn't exist
-
-Window manager warning: Log level 16: async_got_type: could not read properties for /org/freedesktop/NetworkManager/ActiveConnection/10: Method "Get" with signature "ss" on interface "org.freedesktop.DBus.Properties" doesn't exist
-
-Window manager warning: Log level 16: Could not create object for /org/freedesktop/NetworkManager/AccessPoint/27: Method "GetAll" with signature "s" on interface "org.freedesktop.DBus.Properties" doesn't exist
-
-
-** (nm-applet:2736): WARNING **: Could not create object for /org/freedesktop/NetworkManager/AccessPoint/28: Method "GetAll" with signature "s" on interface "org.freedesktop.DBus.Properties" doesn't exist
-
-Window manager warning: Log level 16: (nm-access-point.c:357):nm_access_point_connection_valid: runtime check failed: (ap_freq > 0)
-Cjs-Message: JS LOG: Invalid network device type, is 13
-Cjs-Message: JS LOG: wireless_set_enabled
-Window manager warning: Log level 16: async_got_type: could not read properties for /org/freedesktop/NetworkManager/ActiveConnection/16: Method "Get" with signature "ss" on interface "org.freedesktop.DBus.Properties" doesn't exist
-
-Window manager warning: Log level 16: Could not create object for /org/freedesktop/NetworkManager/ActiveConnection/16: Method "GetAll" with signature "s" on interface "org.freedesktop.DBus.Properties" doesn't exist
-
-
-** (nm-applet:2736): WARNING **: Could not create object for /org/freedesktop/NetworkManager/AccessPoint/44: Method "GetAll" with signature "s" on interface "org.freedesktop.DBus.Properties" doesn't exist
-
-Window manager warning: Log level 16: Device activation failed: (32) No compatible disconnected device found for master connection ce9f70b0-311e-40ee-81c1-58082492a5e1.
-Cjs-Message: JS LOG: wireless_set_enabled
-Cjs-Message: JS LOG: wireless_set_enabled
-
-** (nm-applet:2736): WARNING **: Could not create object for /org/freedesktop/NetworkManager/AccessPoint/62: Method "GetAll" with signature "s" on interface "org.freedesktop.DBus.Properties" doesn't exist
-
-Log level 16: Could not create object for /org/freedesktop/NetworkManager/AccessPoint/62: Method "GetAll" with signature "s" on interface "org.freedesktop.DBus.Properties" doesn't exist
-
-Window manager warning: Log level 16: Could not create object for /org/freedesktop/NetworkManager/ActiveConnection/19: Method "GetAll" with signature "s" on interface "org.freedesktop.DBus.Properties" doesn't exist
-
-Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e00003 (Netwerkver)
-Cjs-Message: JS LOG: wireless_set_enabled
-Window manager warning: Log level 16: Could not create object for /org/freedesktop/NetworkManager/AccessPoint/74: Method "GetAll" with signature "s" on interface "org.freedesktop.DBus.Properties" doesn't exist
-
-Window manager warning: Log level 16: async_got_type: could not read properties for /org/freedesktop/NetworkManager/ActiveConnection/24: Method "Get" with signature "ss" on interface "org.freedesktop.DBus.Properties" doesn't exist
-
-Window manager warning: Log level 16: Could not create object for /org/freedesktop/NetworkManager/ActiveConnection/23: Method "GetAll" with signature "s" on interface "org.freedesktop.DBus.Properties" doesn't exist
-
-Window manager warning: Log level 16: (nm-access-point.c:357):nm_access_point_connection_valid: runtime check failed: (ap_freq > 0)
-Window manager warning: Log level 16: (nm-access-point.c:357):nm_access_point_connection_valid: runtime check failed: (ap_freq > 0)
-
-** (nm-applet:2736): WARNING **: Could not create object for /org/freedesktop/NetworkManager/AccessPoint/82: Method "GetAll" with signature "s" on interface "org.freedesktop.DBus.Properties" doesn't exist
-
-Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x3200003 (RepublicMa)
-
-** (nm-applet:2736): WARNING **: Could not create object for /org/freedesktop/NetworkManager/AccessPoint/84: Method "GetAll" with signature "s" on interface "org.freedesktop.DBus.Properties" doesn't exist
-
-Cjs-Message: JS LOG: wireless_set_enabled
-Window manager warning: Log level 16: Could not create object for /org/freedesktop/NetworkManager/AccessPoint/85: Method "GetAll" with signature "s" on interface "org.freedesktop.DBus.Properties" doesn't exist
-
-Window manager warning: Log level 16: Could not create object for /org/freedesktop/NetworkManager/ActiveConnection/29: Method "GetAll" with signature "s" on interface "org.freedesktop.DBus.Properties" doesn't exist
-
-
-** (nm-applet:2736): WARNING **: Could not create object for /org/freedesktop/NetworkManager/AccessPoint/94: Method "GetAll" with signature "s" on interface "org.freedesktop.DBus.Properties" doesn't exist
-
-Cjs-Message: JS LOG: wireless_set_enabled
-
-** (nm-applet:2736): WARNING **: Could not initialize NMActiveConnection /org/freedesktop/NetworkManager/ActiveConnection/37: Method "GetAll" with signature "s" on interface "org.freedesktop.DBus.Properties" doesn't exist
-
-Window manager warning: Log level 16: Could not create object for /org/freedesktop/NetworkManager/AccessPoint/96: Method "GetAll" with signature "s" on interface "org.freedesktop.DBus.Properties" doesn't exist
-
-
-(nm-applet:2736): nm-applet-CRITICAL **: applet_get_connection_for_active: assertion 'path != NULL' failed
-
-** (nm-applet:2736): WARNING **: Could not create object for /org/freedesktop/NetworkManager/ActiveConnection/37: Method "GetAll" with signature "s" on interface "org.freedesktop.DBus.Properties" doesn't exist
-
-
-(nm-applet:2736): nm-applet-CRITICAL **: applet_get_connection_for_active: assertion 'path != NULL' failed
-
-(nm-applet:2736): nm-applet-CRITICAL **: applet_get_connection_for_active: assertion 'path != NULL' failed
-Window manager warning: Log level 16: Could not initialize NMActiveConnection /org/freedesktop/NetworkManager/ActiveConnection/36: Method "GetAll" with signature "s" on interface "org.freedesktop.DBus.Properties" doesn't exist
-
-Window manager warning: Log level 16: async_got_type: could not read properties for /org/freedesktop/NetworkManager/ActiveConnection/37: Method "Get" with signature "ss" on interface "org.freedesktop.DBus.Properties" doesn't exist
-
-Window manager warning: Log level 16: Could not create object for /org/freedesktop/NetworkManager/ActiveConnection/36: Method "GetAll" with signature "s" on interface "org.freedesktop.DBus.Properties" doesn't exist
-
-Window manager warning: Log level 16: async_got_type: could not read properties for /org/freedesktop/NetworkManager/ActiveConnection/37: Method "Get" with signature "ss" on interface "org.freedesktop.DBus.Properties" doesn't exist
-
-Window manager warning: Log level 16: async_got_type: could not read properties for /org/freedesktop/NetworkManager/ActiveConnection/37: Method "Get" with signature "ss" on interface "org.freedesktop.DBus.Properties" doesn't exist
-
-Window manager warning: Log level 16: async_got_type: could not read properties for /org/freedesktop/NetworkManager/ActiveConnection/37: Method "Get" with signature "ss" on interface "org.freedesktop.DBus.Properties" doesn't exist
-
-Window manager warning: Log level 16: Could not create object for /org/freedesktop/NetworkManager/AccessPoint/97: Method "GetAll" with signature "s" on interface "org.freedesktop.DBus.Properties" doesn't exist
-
-
-** (nm-applet:2736): WARNING **: Could not create object for /org/freedesktop/NetworkManager/AccessPoint/98: Method "GetAll" with signature "s" on interface "org.freedesktop.DBus.Properties" doesn't exist
-
-Cjs-Message: JS LOG: wireless_set_enabled

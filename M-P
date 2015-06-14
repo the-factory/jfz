@@ -1,0 +1,39 @@
+master
+
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Committer: RepubicMaster <dot@tony-Satellite-L40>
+#
+# On branch master
+# Changes to be committed:
+#	modified:   .ICEauthority
+#	modified:   .Xauthority
+#	modified:   .bash_history
+#	modified:   .cache/google-chrome/Default/Cache/index-dir/the-real-index
+#	modified:   .cinnamon/glass.log
+#	modified:   .cinnamon/glass.log.last
+#	modified:   .config/dconf/user
+#	modified:   .config/google-chrome/Default/Current Session
+#	modified:   .config/google-chrome/Default/Current Tabs
+#	modified:   .config/google-chrome/Default/GPUCache/data_1
+#	modified:   .config/google-chrome/Default/Local Storage/chrome-devtools_devtools_0.localstorage
+#	modified:   .config/google-chrome/Default/Local Storage/chrome-devtools_devtools_0.localstorage-journal
+#	modified:   .config/google-chrome/Default/Preferences
+#	modified:   .config/google-chrome/Default/Session Storage/000003.log
+#	modified:   .config/google-chrome/Local State
+#	modified:   .config/nemo/desktop-metadata
+#	modified:   .dbus/session-bus/5fe1fc418ecc4c3380213f445482aad1-20
+#	modified:   .gconf/apps/gnome-terminal/profiles/Default/%gconf.xml
+#	modified:   .local/share/gvfs-metadata/home
+#	renamed:    .local/share/gvfs-metadata/home-1e35fffc.log -> .local/share/gvfs-metadata/home-217d9651.log
+#	new file:   .local/share/gvfs-metadata/network:
+#	new file:   .local/share/gvfs-metadata/network:-afecb611.log
+#	new file:   .local/share/gvfs-metadata/uuid-CCA4B02DA4B01BC0
+#	new file:   .local/share/gvfs-metadata/uuid-CCA4B02DA4B01BC0-9b30b82a.log
+#	modified:   .xsession-errors
+#
+# Changes not staged for commit:
+#	modified:   .gitconfig
+#
